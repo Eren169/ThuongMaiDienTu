@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZaTYVnIKga9pRO7ry3MhSMho9q1xS+jedSfFm8DGMsT7Yp5SXkWLpb51tBot70JwgxsbMp8j9AbPHttnvvsmQ==",
+  "success": true,
+  "projectFilePath": "D:\\webapp\\WEBAPP\\WEBAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dangt\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
